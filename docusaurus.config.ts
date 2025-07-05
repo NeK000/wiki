@@ -3,10 +3,10 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: "NeK000's Wiki",
-  tagline: "Wiki for Homelabbers and related projects",
+  title: "NeK000's Wiki",  
+  tagline: "Wiki for homelabbers, nerds, and self-hosting enthusiasts",
   favicon: "/logo.png",
-  url: "https://wiki.nek000.ninik.group",
+  url: "https://NeK000.github.io",
   baseUrl: "/",
   organizationName: "nek000",
   projectName: "me",
