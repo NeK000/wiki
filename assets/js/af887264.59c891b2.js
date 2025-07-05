@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwiki_new=self.webpackChunkwiki_new||[]).push([[963],{2127:s=>{s.exports=JSON.parse('{"tag":{"label":"TSDProxy","permalink":"/tags/tsd-proxy","allTagsPath":"/tags","count":1,"items":[{"id":"wiki/apps/tsdproxy","title":"TSD Proxy","description":"Some description","permalink":"/wiki/apps/tsdproxy"}],"unlisted":false}}')}}]);

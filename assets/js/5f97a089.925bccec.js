@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki_new=self.webpackChunkwiki_new||[]).push([[400],{599:e=>{e.exports=JSON.parse('{"tag":{"label":"Docker","permalink":"/me/tags/docker","allTagsPath":"/me/tags","count":1,"items":[{"id":"wiki/apps/tsdproxy","title":"TSD Proxy","description":"Some description","permalink":"/me/wiki/apps/tsdproxy"}],"unlisted":false}}')}}]);
