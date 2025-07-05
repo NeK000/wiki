@@ -7,7 +7,7 @@ const config: Config = {
   tagline: "Wiki for homelabbers, nerds, and self-hosting enthusiasts",
   favicon: "/logo.png",
   url: "https://NeK000.github.io",
-  baseUrl: "/",
+  baseUrl: "/me/",
   organizationName: "nek000",
   projectName: "me",
   onBrokenLinks: "warn",
