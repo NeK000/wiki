@@ -10,11 +10,9 @@ In this section, I will detail my home networking setup, including the configura
 I utilize UniFi Network to efficiently manage and segment my home network. My setup consists of four distinct networks: 
 
 - **Cameras** (A dedicated VLAN for cameras, isolated from the WAN and configured so that devices cannot communicate with each other.)
-- **IoT devices**
-- **General**
-- **Guest**
-
-Each network is mapped to its own VLAN, ensuring proper isolation and enhanced security between device groups. 
+- **IoT devices** (A separate VLAN for IoT devices, blocked from accessing other networks and from communicating with each other, providing strong isolation and security.)
+- **General** (The main VLAN for trusted devices such as personal computers and servers, isolated from other VLANs for security and management.)
+- **Guest** (A VLAN using UniFi’s hotspot feature, fully isolated from the rest of the network and between guest devices, requiring users to authenticate through the UniFi guest login page.)
 
 Correspondingly, I have configured four separate WiFi networks:
 
