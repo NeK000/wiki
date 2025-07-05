@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki_new=self.webpackChunkwiki_new||[]).push([[797],{8805:e=>{e.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"Apps","slug":"/category/apps","permalink":"/category/apps","sidebar":"wikiSidebar","navigation":{"previous":{"title":"Linux Guides","permalink":"/wiki/intro"},"next":{"title":"TSD Proxy","permalink":"/wiki/apps/tsdproxy"}}}}')}}]);
