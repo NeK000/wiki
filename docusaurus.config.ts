@@ -7,7 +7,7 @@ const config: Config = {
   tagline: "Wiki for homelabbers, nerds, and self-hosting enthusiasts",
   favicon: "/logo.png",
   url: "https://NeK000.github.io",
-  baseUrl: "/me/",
+  baseUrl: "/wiki/",
   organizationName: "nek000",
   projectName: "me",
   onBrokenLinks: "warn",
@@ -34,7 +34,7 @@ const config: Config = {
         docs: {
           routeBasePath: "/",
           sidebarPath: "./sidebars.ts",
-          editUrl: "https://github.com/NeK000/me/tree/main",
+          editUrl: "https://github.com/NeK000/wiki/tree/main",
           showLastUpdateTime: true,
           showLastUpdateAuthor: true,
         },
@@ -80,7 +80,7 @@ const config: Config = {
           label: "Homelab",
         },
         {
-          href: "https://github.com/NeK000/me",
+          href: "https://github.com/NeK000/wiki",
           label: "GitHub",
           position: "right",
         },
@@ -111,7 +111,7 @@ const config: Config = {
           items: [
             {
               label: "GitHub",
-              href: "https://github.com/NeK000/me",
+              href: "https://github.com/NeK000/wiki",
             },
           ],
         },
